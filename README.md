@@ -1,6 +1,6 @@
 **README for Lennard-Jones Potential Calculation Tool**
 ---------------------------------------------------------------
-Tool that calculates the net Lennard-Jones potential at a given query point
+Tool that calculates the net Lennard-Jones potential at a query point, given a PDB input file.
 
 ## Note: 
 This tool is part of a set of bioinformatic and biological structure tools created for CBB752 at Yale University in the Spring 2016. The website containing links to the set of tools can be found at: http://cbb752spring2016.github.io/
