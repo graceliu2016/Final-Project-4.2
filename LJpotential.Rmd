@@ -84,7 +84,7 @@ LJpotential <- function(inputfile, x, y, z, epsilon_h, sigma){
   # NOTE: this section also adapted from Calvin's code
   for(i in 1:max(alphaC$ix)) {
     vectdist <- data.frame(A = alphaC[i,3] - as.numeric(x), B = alphaC[i,4] - as.numeric(y),
-                               C = alphaC[i,5] - as.numeric(y))
+                               C = alphaC[i,5] - as.numeric(z))
     normdist <- as.numeric(sqrt(vectdist[1]^2 + vectdist[2]^2 + vectdist[3]^2))
     alphaC$dist[i] <- normdist
   }
