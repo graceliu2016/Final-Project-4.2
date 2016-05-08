@@ -1,4 +1,4 @@
-**README for CBB_Bioinformatics_FinalProject_4.1**
+**README for CBB_Bioinformatics_FinalProject_4.2**
 ---------------------------------------------------------------
 Tool that calculates the net Lennard-Jones potential at a given query point
 
