@@ -33,20 +33,14 @@ If optional inputs are not specified, we will use a default epsilon_h value of 1
 
 ```{r}
 LJpotential(inputfile = "1AHO.pdb", x = 10, y = 12, z = 8)
-```
-Output:
-```{r}
-[1] 1.053366
+> [1] 1.053366
 ```
 
 
 Alternately, using sigma and epsilon values from Kravats et al. [3]
 ```{r}
 LJpotential(inputfile = "1AHO.pdb", x = 10, y = 12, z = 8, epsilon_h = 2.125, sigma = 3.8)
-```
-Output:
-```{r}
-[1] 0.389496
+> [1] 0.389496
 ```
 
 ### References
