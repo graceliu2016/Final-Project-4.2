@@ -1,9 +1,9 @@
 **README for Lennard-Jones Potential Calculation Tool**
 ---------------------------------------------------------------
-Tool that calculates the net Lennard-Jones potential at a query point, given a PDB input file.
+Tool that calculates the net Lennard-Jones potential at a query point, given a PDB input file. A Python tool that accomplishes the same task can be found [here] (https://github.com/wellshl/Final-Project-4.2).
 
 ## Note: 
-This tool is part of a set of bioinformatic and biological structure tools created for CBB752 at Yale University in the Spring 2016. The website containing links to the set of tools can be found at: http://cbb752spring2016.github.io/
+This tool is part of a set of bioinformatic and biological structure tools created for CBB752 at Yale University in the Spring 2016. The website containing links to the set of tools can be found [here] (http://cbb752spring2016.github.io).
 
 # The R tool that accomplishes this task is named LJpotential.Rmd.
 
